@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "cisco-docs": {
+      "command": "python",
+      "args": [
+        "/absolute/path/to/cisco_docs_mcp_server.py"
+      ],
+      "env": {
+        "DOCS_DIRECTORY": "/absolute/path/to/your/cisco_docs"
+      }
+    }
+  }
+}
